@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img height="500px" width="500px" class="free-floating" src="../img/ochem.png">
+<img height="500px" width="800px" class="free-floating" src="../img/ochem.png">
 
 ## Where It Started
 Growing up, I never really had an interest in the academics. I never really thought memorizing trig. functions or the unit circle was fun, despite being in math club. I never really figured out how to solve RICE tables, despite passing AP Chemistry. And I never really thought people were all that interesting despite having spent 250+ hours every year volunteering at community events. All of these things I did growing up in school I did because I guess it was what was expected of me. I didn't excel at these things that I did but I didn't fail at them either. Life had grown complacent. In the background stirring though, between the math leagues, between the chemistry study sessions, and between the timesheets, I played video games. Ever since I was a child, when I received a *Nintendo Game Boy Advance* for my 5th birthday, I was drawn to the light on the screen. Every minute and second away from school I was at home on a Desktop, on a video game console, or watching older relatives play games. Though I saw it as a hobby, playing video games to me felt very different from understanding and making them.
