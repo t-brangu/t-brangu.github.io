@@ -18,6 +18,7 @@ It's interesting looking at TypeScript because it's a superset of JavaScript. Th
 
 Thinking about it all, TypeScript for me will continue to prove an uphill battle, but it's one that I know will be worth it. The code that we have been writing for our TypeScript assignments has been eye-opening. Even though the WODs so far have been smaller-scale projects, as TypeScript utilizes explicit type declarations, code completion, and static typing, it will definitely be useful for working on larger-scale projects and especially with teams. That's why I believe TypeScript would be a great programming language for Software Engineers. 
 
+<br>
 ## So slow... so so slow.
 The concept of athletic software engineering is very daunting to me. I can understand the real-world application and importance of practicing/learning in this manner, as it builds one's capabilities of coding under pressure, however, it's still very stressful! These WODs for me have been like mini-midterm exams. In the sense that only during my exams in prior ICS classes have I been put on the spot to code within a specified amount of time. It's something that definitely haunts me to a slight degree as student (haha). It's not all bad though, I've definitely been warming up to them and I can actually feel like the practice is paying off. At the moment, I'm still very slow when coding and these WODs have drawn much-needed attention to that.
 
@@ -26,5 +27,5 @@ By having practice WODs at the beginning of the week, I become familiarized with
 
 *"Nobody cares if you can't dance well. Just get up and dance." - Martha Graham*
 
-<img height="500px" width="500px" class="rounded float-start pe-4" src="../img/martha.png">
+<img height="500px" width="500px" src="../img/martha.png">
     
