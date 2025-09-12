@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/uhelogo.png
 title: "UHEsports Content Team Illustrator"
 date: 2024
 published: true
 labels:
   - Procreate
   - Graphic Design
-summary: "Contributing illustrator for University of Hawaii E-sports' content team."
+summary: "Created illustrations and graphics for various games and programs within UHEsports."
 ---
 
 During the 2024-2025 school year, I was a part of the University of Hawaii E-sports' content creation team. The content team is a community-driven group of volunteers that fulfill tasks and requests by the organization throughout the school year. I primarily focused on being an illustrator for the community as digital art and content creation is an interest that I have. There are also various other roles that I semi-fulfilled in prior years such as video editing and interests in broadcasting. As an illustrator for the content team, I worked with content leads and team leads for the various games we have at UHEsports. Games that I notably created content for at UHE was the *League of Legends team* and graphics for *Deadlock*.
@@ -20,3 +20,5 @@ Here is an example of the League of Legends team's Lunar New Year commemorative 
 <img class="img-fluid" src="../img/uhelnyillustration.png">
 
 Here is another example of an emote I made for the UHE Discord modeled after *Lady Geist* from the game *Deadlock*:
+
+<img class="img-fluid" src="../img/ladygeist.png">
