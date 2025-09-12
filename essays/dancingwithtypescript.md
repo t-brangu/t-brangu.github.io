@@ -1,4 +1,4 @@
----
+<img width="1134" height="642" alt="image" src="https://github.com/user-attachments/assets/c8b0eedf-f5b8-4bb3-be6d-aa392ba45244" />---
 layout: essay
 type: essay
 title: "Dancing with TypeScript"
@@ -8,7 +8,6 @@ published: true
 labels:
   - Software Engineering
 ---
-<img height="300px" width="500px" class="free-floating" src="../img/ochem.png">
 
 ## TypeScript...hmm...
 Learning TypeScript has definitely been a challenge to say the least. A lot of it feels familiar in a way but also very different at the same time. For example, the static typing versus dynamic typing of *JavaScript*. It's something that was mentioned during our lectures and pointed out as a defining feature of the language and in our WODs or in-class practices, I definitely notice that functionality. Being able to see errors like mismatched type as I'm writing lines of code is huge benefit as it lets me check and fix them as they're being written. Whereas in other programming languages the errors may only occur during runtime. Before taking this course, I had never heard of TypeScript but it seems quite similar to Java for me. For example, the object-oriented programming and the syntax used in the language such as use of curly bracketes, phrasing of conditional statements such like if, else and loop statements are also quite similar. 
