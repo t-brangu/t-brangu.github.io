@@ -20,6 +20,7 @@ This project taught me a lot about the process of drafting up ideas, going throu
 
 Here are some photos from that day:
 <br>
-<img height="1000px" width="500px" class="img-fluid" src="../img/ap1.jpg">
-<img height="1000px" width="500px" class="img-fluid" src="../img/ap2.jpg">
+<br>
+<img height="900px" width="500px" class="img-fluid" src="../img/ap1.jpg">
+<img height="900px" width="500px" class="img-fluid" src="../img/ap2.jpg">
 
