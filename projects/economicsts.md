@@ -13,7 +13,7 @@ summary: "The Web Tech Support for the Economic department at UH Manoa. In charg
 ---
 
 <div class="text-center p-4">
-  <img width="1000px" src="../img/economics.png" class="img-thumbnail" >
+  <img src="../img/economics.png" class="img-thumbnail" >
 </div>
 
 Being the Web Tech Support for the Economic department at UH Manoa is a job that requires working knowledge and experience of the markup language, HTML and the style sheet language, CSS. Use of both of these languages allows for the creation and formatting of the website while SFTP protocols are used to upload files onto the ITS web server's directories. 
