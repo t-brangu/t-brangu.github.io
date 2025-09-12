@@ -17,7 +17,8 @@ It's interesting looking at TypeScript because it's a superset of JavaScript. Th
 
 ## So slow... so so slow.
 The concept of athletic software engineering is very daunting to me. I can understand the real-world application and importance of practicing/learning in this manner, as it builds one's capabilities of coding under pressure, however, it's still very stressful! These WODs for me have been like mini-midterm exams. In the sense that only during my exams in prior ICS classes have I been put on the spot to code within a specified amount of time. It's something that definitely haunts me to a slight degree as student (haha). It's not all bad though, I've definitely been warming up to them and I can actually feel like the practice is paying off. 
-<br>
+
+
 By having practice WODs at the beginning of the week, I become familiarized with the type of functions and program I know we'll likely be receiving on the actual WOD later in the week. During the brief time, I try to perfect and understand my code so that come time for the actual WOD, I'm more prepared and able to handle the pressure of a digital timer (still working on achieving better times). In some aspects, they're pretty fun and satisfying. There's some form of gratification there in knowing you were able to finish your working code (and test-cases) on time or even close to on time. Though the code can often be messy from the need to finish it in a hurry, that's what makes it engaging. I'm constantly on my toes scrambling to fix things as I'm writing them (static typing yay) and also trying to keep up with that timer in my head. As I work on more WODs I think I will grow to appreciate and benefit a lot from this style of learning.
 
 *"Nobody cares if you can't dance well. Just get up and dance." - Martha Graham*
