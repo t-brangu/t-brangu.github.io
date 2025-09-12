@@ -1,11 +1,10 @@
 layout: essay
 type: essay
 title: "Dancing with TypeScript"
-# All dates must be YYYY-MM-DD format!
 date: 2025-09-12
 published: true
 labels:
-  - Software Engineering
+  - TypeScript
 ---
 
 ## TypeScript...hmm...
