@@ -21,4 +21,4 @@ Here is an example of the League of Legends team's Lunar New Year commemorative 
 
 Here is another example of an emote I made for the UHE Discord modeled after *Lady Geist* from the game *Deadlock*:
 
-<img class="img-fluid" src="../img/ladygeist.png">
+<img height="100px" width="100px" class="img-fluid" src="../img/ladygeist.png">
