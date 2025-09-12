@@ -9,7 +9,7 @@ labels:
   - HTML
   - CSS
   - Web Design
-summary: "The Web Tech Support for the Economic department at UH Manoa. In charge of updating the Economic department's website using HTML, CSS, and SFTP protocols to fit current needs as well as ensuring proper functionality and user aesthetics."
+summary: "The Web Tech Support for the Economic department at UH Manoa."
 ---
 
 <div class="text-center p-4">
