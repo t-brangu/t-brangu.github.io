@@ -25,5 +25,6 @@ The concept of athletic software engineering is very daunting to me. I can under
 By having practice WODs at the beginning of the week, I become familiarized with the type of functions and program I know we'll likely be receiving on the actual WOD later in the week. During the brief time, I try to perfect and understand my code so that come time for the actual WOD, I'm more prepared and able to handle the pressure of a digital timer (still working on achieving better times). In some aspects, they're pretty fun and satisfying. There's some form of gratification there in knowing you were able to finish your working code (and test-cases) on time or even close to on time. Though the code can often be messy from the need to finish it in a hurry, that's what makes it engaging. I'm constantly on my toes scrambling to fix things as I'm writing them (static typing yay) and also trying to keep up with that timer in my head. As I work on more WODs I think I will grow to appreciate and benefit a lot from this style of learning.
 
 *"Nobody cares if you can't dance well. Just get up and dance." - Martha Graham*
+
 <img height="500px" width="500px" class="rounded float-start pe-4" src="../img/martha.png">
     
