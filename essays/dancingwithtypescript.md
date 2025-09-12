@@ -13,6 +13,7 @@ Learning TypeScript has definitely been a challenge to say the least. A lot of i
 <br>
 
 It's interesting looking at TypeScript because it's a superset of JavaScript. Though I have had experience using JavaScript in the past, I'm definitely a bit rusty when it comes to my knowledge of it. TypeScript has not been a walk in the park, far from it. Java has been the main coding language that I have been practicing because of my classes up until now, so the switch is still pretty foreign. This module, specifically ES6 was definitely a nice refresher for a lot of JavaScript concepts that I had forgetten, as well as taught me a lot of new ones. A nice feature to also mention about TypeScript is that it seems to have an autofilling tool. It's quite convenient and makes writing longer code more efficient as it checks what you're writing and, similar to a search engine's autofill, will prompt the next bit of code for you to use. 
+
 <img width="500px" class="rounded float-start pe-4" src="../img/autocomplete.png"> 
 
 Thinking about it all, TypeScript for me will continue to prove an uphill battle, but it's one that I know will be worth it. The code that we have been writing for our TypeScript assignments has been eye-opening. Even though the WODs so far have been smaller-scale projects, as TypeScript utilizes explicit type declarations, code completion, and static typing, it will definitely be useful for working on larger-scale projects and especially with teams. That's why I believe TypeScript would be a great programming language for Software Engineers. 
