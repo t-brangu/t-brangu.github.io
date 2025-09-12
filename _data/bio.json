@@ -6,7 +6,7 @@
     "email": "bnguyen6@hawaii.edu",
     "website": "https://t-brangu.github.io",
     "summary": "I am studying for a B.S. in Computer Science and a minor in English in the Department of Information and Computer Sciences and Department of English at the University of Hawaii. I expect to graduate in Fall, 2027.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": USA, "region": Hawaii },
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "t-brangu", "url": "http://github.com/t-brangu" },
       { "network": "linkedin", "username": "t-brangu", "url": "https://www.linkedin.com/in/t-brandon-nguyen/" },
