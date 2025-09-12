@@ -9,7 +9,7 @@ labels:
   - HTML
   - CSS
   - Web Design
-summary: "The Web Tech Support for the Economic department at UH Manoa."
+summary: "Maintaining and updating the Economics website with up-to-date information."
 ---
 
 <div class="text-center p-4">
