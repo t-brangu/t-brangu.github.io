@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/UH_Seal.png
 title: "Economics Website Tech Support"
 date: 2025-07-29 - Present
 published: true
@@ -13,9 +13,7 @@ summary: "The Web Tech Support for the Economic department at UH Manoa. In charg
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/economics.png" class="img-thumbnail" >
 </div>
 
 Being the Web Tech Support for the Economic department at UH Manoa is a job that requires working knowledge and experience of the markup language, HTML and the style sheet language, CSS. Use of both of these languages allows for the creation and formatting of the website while SFTP protocols are used to upload files onto the ITS web server's directories. 
