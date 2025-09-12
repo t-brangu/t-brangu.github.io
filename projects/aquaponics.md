@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhelogo.png
+image: img/aquaponics.png
 title: "Indoor Aquaponics System"
 date: 2019
 published: true
