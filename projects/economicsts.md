@@ -24,4 +24,4 @@ This is a position that the Economics department only started hiring for in rece
 
 While many of the changes for the I will make to the existing code are minimal and straightforward (the process of updating and tweaking numbers), occasionally I will be assigned larger projects that will require heavy amounts of editing to old sections of code, or creating entirely new sections. As I am editing and working on larger tasks, the site will remain active without any of the new changes unless they are published. This brought up an interesting dilemma for me as making any changes to the site that I were unsure of would still require me to upload for publishing. If the changes were never published, I would not be able to see how they would affect the live site. Thus, during the handling of projects that required more experimental changes, I had to find a balance of deloying changes that would minimize the downtime of the site looking otherwise intended.
 
-Check out the Economics website [here](economics.hawaii.edu)!
+Check out the Economics website [here](https://economics.hawaii.edu)!
