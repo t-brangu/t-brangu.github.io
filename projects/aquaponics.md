@@ -19,5 +19,6 @@ This type of approach would allows us to create a project that actively involved
 This project taught me a lot about the process of drafting up ideas, going through trial-and-error, budgeting, receiving feedback, and implementing our ideas. It was a project that was done over the course of a month and we finished with a presenation on it to our club.
 
 Here are some photos from that day:
+
 <img class="img-fluid" src=".../img/ap1.jpg"> <img class="img-fluid" src=".../img/ap2.jpg">
 
