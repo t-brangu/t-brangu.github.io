@@ -1,4 +1,3 @@
-<img width="1134" height="642" alt="image" src="https://github.com/user-attachments/assets/c8b0eedf-f5b8-4bb3-be6d-aa392ba45244" />---
 layout: essay
 type: essay
 title: "Dancing with TypeScript"
