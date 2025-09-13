@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/UH_Seal.png
 title: "Economics Website Tech Support"
-date: 2025-07-29 - Present
+date: 2025 - Present
 published: true
 labels:
   - HTML
