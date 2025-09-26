@@ -21,7 +21,7 @@ One comparison that I thought of was how learning scales prepares you for playin
 ## Reality checking
 Of course, this first week using ESLint hasn't been without its moments of frustration. Sometimes I feel like I'm being "graded" for every tiny detail like accidentally forgetting a semicolon or not spacing a function call properly (seriously, are the 2 extra indents I have that bad...). At times it feels nitpicky, even painful, to fix error after error, especially under time pressure. But in another sense, it reminds me of practicing with a metronome. It's strict, it forces you to slow down and repeat until you get it right, but in the long run it build discipline and accuracy. Eventually, and I say hopefully, the patterns stick and become automatic, allowing me to focus on the bigger picture: the music, or in this case, the logic of the program itself. 
 
-<img width="500px" class="rounded float-start pe-4" src="../img/c-major-scale.jpg"> 
+<img width="500px" class="rounded float-start pe-4" src="../img/errors.png"> 
 
 Coding standards, in my opinion, are far from trivial. They're a form of practice, like scales, that not only help you play cleanly in the present, but also prepare you to perform in new environments later on. Just as a musician can move from one key to another more confidently after hours of drilling scales, I believe software engineers can move between languages and projects more smoothly if they internalize solid coding standards. ESLint, annoying as it may sometimes feel, is like that music teacher who never lets you play sloppy. At the moment, it's slowing me down, but I know it's helping me develop habits that will pay off when I'm sight-reading" in new programming languages.
 
