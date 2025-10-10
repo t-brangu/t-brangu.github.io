@@ -20,6 +20,7 @@ For example, when I first built the various shop pages for our WOD experiences, 
 
 <img width="500px" src="../img/hhhrc.png"><br>(HHHRC's original webpage)
 <br>
+<br>
 <img width="500px" src="../img/hhhrc-recreation.png"><br>(My recreation)
 
 Here I recreated the HHHRC's homepage without inspecting the CSS elements. It was really fun trying to make a one-to-one recreation of the site, even if not fully-functional
