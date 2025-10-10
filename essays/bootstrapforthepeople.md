@@ -18,16 +18,22 @@ After building a few pages, bit by bit, through our practice in-class WODs, WOD 
 For example, when I first built the various shop pages for our WOD experiences, a lot of these Bootstrap concepts were new. But when we started working on recreating restaurant websites, parts started clicking. Then when we had a choice to recreate a website of our choice, I found that recycling a lot of the Bootstrap snippets from my prior repositories was really useful. It was like going from handwriting every single note for a math class, having to draw all of the graphs and stuff by hand, line by line, to digitally typing your notes, highlighting words and inserting images with only a few clicks. And I definitely don't want to be writing lines upon lines of CSS rules either.
 <br>
 
-<img width="500px" src="../img/hhhrc.png"><br>(HHHRC's original webpage)
-<br>
-<br>
-<img width="500px" src="../img/hhhrc-recreation.png"><br>(My recreation)
+<p align="center">
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="../img/hhhrc.png" width="500"><br>
+    <figcaption>(HHHRC's original webpage)</figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="../img/hhhrc-recreation.png" width="500"><br>
+    <figcaption>(My recreation)</figcaption>
+  </figure>
+</p>
 
 Here I recreated the HHHRC's homepage without inspecting the CSS elements. It was really fun trying to make a one-to-one recreation of the site, even if not fully-functional
 
 ## For the Future
 The frustration with Bootstrap comes and goes. Even while using it, it may make setting things up easier, but trying to override the default Bootstrap settings can prove tricky if you're not entirely sure what to implement (my experience). The rules can feel restrictive, especially at times when you have specific images in your mind and full creative control. At first, I was constantly wrestling with its default styles, trying to make buttons look less "Bootstrap-y", margins not lining up how I expected (despite having clear margin implementations in-place), and color palettes that would clash (sometimes I think that my work is broken when really the text is just the same color as the background). Even now, it requires a lot of patience to customize with custom CSS, making every page look how I want it to. 
-<img width="500px" class="rounded float-start pe-4" src="../img/tug.jpg"> 
+<img width="500px" src="../img/tug.jpg"> 
 <br>
 
 The learning curve seems steep, but I can see the payoff. I see it akin to TypeScript, which aids in avoiding type errors as you're programming, Bootstrap helps by avoiding design chaos. It allows for consistent spacing, typography, and responsive behavior that you can always rely on instead of having to reinvent it each time. UI frameworks teach design discipline. It teaches me to think in terms of components, such as the navbar, footer, header, etc. Pieces that can be reused and combined. 
