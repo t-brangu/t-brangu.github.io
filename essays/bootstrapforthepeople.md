@@ -29,7 +29,7 @@ For example, when I first built the various shop pages for our WOD experiences, 
   </figure>
 </p>
 
-Here I recreated the HHHRC's homepage without inspecting the CSS elements. It was really fun trying to make a one-to-one recreation of the site, even if not fully-functional
+Here I recreated the HHHRC's homepage without inspecting the CSS elements. It was really fun trying to make a one-to-one recreation of the site, even if not fully-functional!
 
 ## For the Future
 The frustration with Bootstrap comes and goes. Even while using it, it may make setting things up easier, but trying to override the default Bootstrap settings can prove tricky if you're not entirely sure what to implement (my experience). The rules can feel restrictive, especially at times when you have specific images in your mind and full creative control. At first, I was constantly wrestling with its default styles, trying to make buttons look less "Bootstrap-y", margins not lining up how I expected (despite having clear margin implementations in-place), and color palettes that would clash (sometimes I think that my work is broken when really the text is just the same color as the background). Even now, it requires a lot of patience to customize with custom CSS, making every page look how I want it to. 
