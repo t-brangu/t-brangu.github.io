@@ -7,7 +7,7 @@ published: true
 labels:
   - Bootstrap
   - HTML/CSS
-  - Software Engineering
+  - UI Design/Frameworks
 ---
 
 ## First Impressions
