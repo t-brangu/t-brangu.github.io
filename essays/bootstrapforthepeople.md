@@ -21,7 +21,7 @@ For example, when I first built the various shop pages for our WOD experiences, 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <img src="../img/hhhrc.png" width="500"><br>
-    <figcaption>(HHHRC's original webpage)</figcaption>
+    <figcaption>(HHHRC's original webpage)<br></figcaption>
   </figure>
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <img src="../img/hhhrc-recreation.png" width="500"><br>
