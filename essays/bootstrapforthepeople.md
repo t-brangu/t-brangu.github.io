@@ -18,11 +18,12 @@ After building a few pages, bit by bit, through our practice in-class WODs, WOD 
 For example, when I first built the various shop pages for our WOD experiences, a lot of these Bootstrap concepts were new. But when we started working on recreating restaurant websites, parts started clicking. Then when we had a choice to recreate a website of our choice, I found that recycling a lot of the Bootstrap snippets from my prior repositories was really useful. It was like going from handwriting every single note for a math class, having to draw all of the graphs and stuff by hand, line by line, to digitally typing your notes, highlighting words and inserting images with only a few clicks. And I definitely don't want to be writing lines upon lines of CSS rules either.
 <br>
 
-<img width="500px" src="../img/hhhrc.png">  (HHHRC's original webpage)
-
-<img width="500px" src="../img/hhhrc-recreation.png"> (My recreation)
-
+<img width="500px" src="../img/hhhrc.png">
+(HHHRC's original webpage)
 <br>
+<img width="500px" src="../img/hhhrc-recreation.png">
+(My recreation)
+
 Here I recreated the HHHRC's homepage without inspecting the CSS elements. It was really fun trying to make a one-to-one recreation of the site, even if not fully-functional
 
 ## For the Future
