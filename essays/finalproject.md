@@ -66,10 +66,10 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 
 ## Beyond the Basics
 <div style="overflow: auto;">
-  <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
+  <figure style="float: right; margin-left: 10px; margin-bottom: 10px; text-align: center;">
     <img src="../img/map.jpg"
-         width="100"
-         height="100"
+         width="150"
+         height="150"
          alt="UH Manoa Campus Map"
          style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
     <figcaption><em>(UH Mānoa's Campus Map)</em></figcaption>
