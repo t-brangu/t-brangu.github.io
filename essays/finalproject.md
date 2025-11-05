@@ -16,6 +16,7 @@ labels:
   <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
 </figure>
 
+Proposers: Jermaine Bruno, Michael Lau, Brandon Nguyen, Edward Uzueta
 ## Overview
 The Problem:<br>Throughout the semester, students at UH Manoa may lose countless items such as IDs, water bottles, textbooks, or even valuables such as their AirPods or other electronic devices. UH Manoa does have a Lost & Found system, but the current process consists of manually emailing departments, visiting physical locations like Campus Center, and making phone calls to said offices. It can be very inconsistent and students have no way of knowing when or if their items have been found without repeating this process numerous times.
 <br>
