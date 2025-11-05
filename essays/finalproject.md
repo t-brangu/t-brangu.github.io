@@ -70,6 +70,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
   <img src="../img/map.jpg"
        width="400"
+       height="200"
        alt="UH Manoa Campus Map"
        style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
   <figcaption><em>(UH Manoa's Campus Map)</em></figcaption>
