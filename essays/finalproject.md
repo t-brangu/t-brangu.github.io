@@ -66,6 +66,7 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
+<div>
 <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
   <img src="../img/map.png"
        width="400"
@@ -73,6 +74,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
        style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
   <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
 </figure>
+</div>
 - Implement a fuzzy-match search (perhaps using AI to match similar keywords such as "AirPods" to "Apple Earbuds" or "Wireless Headphones"
 - QR Poster Generator (allows users to print posters for campus bulletin boards with scannable links to their listings)
 - Map integration (visual markers showing last-seen and found-item locations on campus
