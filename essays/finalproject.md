@@ -8,10 +8,13 @@ labels:
   - Nextjs
 ---
 
-<div style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
-  <img src="../img/lostandfound.png" width="400" alt="UH Manoa Lost and Found Page">
-  <div><em>(UH Manoa's Current Lost and Found Page)</em></div>
-</div>
+<figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
+  <img src="../img/lostandfound.png"
+       width="400"
+       alt="UH Manoa Lost and Found Page"
+       style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
+  <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
+</figure>
 
 ## Overview
 The Problem:<br>Throughout the semester, students at UH Manoa may lose countless items such as IDs, water bottles, textbooks, or even valuables such as their AirPods or other electronic devices. UH Manoa does have a Lost & Found system, but the current process consists of manually emailing departments, visiting physical locations like Campus Center, and making phone calls to said offices. It can be very inconsistent and students have no way of knowing when or if their items have been found without repeating this process numerous times.
