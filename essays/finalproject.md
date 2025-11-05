@@ -68,7 +68,7 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 After implementing the basic functionality, here are ideas for more advanced features:
 <div>
 <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
-  <img src="../img/map.png"
+  <img src="../img/map.jpg"
        width="400"
        alt="UH Manoa Campus Map"
        style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
