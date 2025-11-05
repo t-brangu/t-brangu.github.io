@@ -64,22 +64,26 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 - They receive notifications whenever similar "Found" posts are added
 - Another user finds the item, logs in, and notifys the owner that the item was found and returned to Campus Center
 
-## Beyond the basics
+## Beyond the Basics
+
 After implementing the basic functionality, here are ideas for more advanced features:
-<div>
-<figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
-  <img src="../img/map.jpg"
-       width="200"
-       height="200"
-       alt="UH Manoa Campus Map"
-       style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
-  <figcaption><em>(UH Manoa's Campus Map)</em></figcaption>
-</figure>
+
+<div style="overflow: auto;">
+  <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
+    <img src="../img/map.jpg"
+         width="200"
+         height="200"
+         alt="UH Manoa Campus Map"
+         style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
+    <figcaption><em>(UH Mānoa's Campus Map)</em></figcaption>
+  </figure>
+
+  <ul>
+    <li>Implement a fuzzy-match search (perhaps using AI to match similar keywords such as “AirPods” to “Apple Earbuds” or “Wireless Headphones”).</li>
+    <li>QR Poster Generator (allows users to print posters for campus bulletin boards with scannable links to their listings).</li>
+    <li>Map integration (visual markers showing last-seen and found-item locations on campus).</li>
+    <li>Automated clean-up (posts older than a set time period will be auto-archived unless renewed).</li>
+    <li>Recovery metrics (display stats such as “123 items reunited this semester” to highlight community impact).</li>
+  </ul>
 </div>
 <div style="clear: both; margin-bottom: 20px;"></div>
-- Implement a fuzzy-match search (perhaps using AI to match similar keywords such as "AirPods" to "Apple Earbuds" or "Wireless Headphones"
-- QR Poster Generator (allows users to print posters for campus bulletin boards with scannable links to their listings)
-- Map integration (visual markers showing last-seen and found-item locations on campus
-- Automated clean-up (posts older than a set time period will be auto-archived unless renewed)
-- Recovery metrics (display stats such as "123 items reunited this semester" to highlight community impact)
-
