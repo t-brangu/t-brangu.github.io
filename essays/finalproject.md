@@ -76,6 +76,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
   <figcaption><em>(UH Manoa's Campus Map)</em></figcaption>
 </figure>
 </div>
+<div style="clear: both; margin-bottom: 20px;"></div>
 - Implement a fuzzy-match search (perhaps using AI to match similar keywords such as "AirPods" to "Apple Earbuds" or "Wireless Headphones"
 - QR Poster Generator (allows users to print posters for campus bulletin boards with scannable links to their listings)
 - Map integration (visual markers showing last-seen and found-item locations on campus
