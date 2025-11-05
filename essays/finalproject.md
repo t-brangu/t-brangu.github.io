@@ -18,3 +18,4 @@ The Solution:<br><strong>Manoa Lost & Found</strong> would be a <strong>digital 
     <img src="../img/lostandfound.png" width="500">
     <figcaption>(UH Manoa's Current Lost and Found Page)<br></figcaption>
   </figure>
+</p>
