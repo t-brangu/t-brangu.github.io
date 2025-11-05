@@ -66,7 +66,7 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 - They receive notifications whenever similar "Found" posts are added
 - Another user finds the item, logs in, and notifies the owner that the item was found and returned to Campus Center
 
-## Beyond the Basics
+## Beyond the basics
 <div style="overflow: auto;">
   <figure style="float: right; margin-left: 10px; margin-bottom: 10px; text-align: center;">
     <img src="../img/map.jpg"
