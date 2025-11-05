@@ -16,7 +16,7 @@ labels:
   <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
 </figure>
 
-## Manoa Lost and Found
+## Manoa Lost & Found
 Proposers: Jermaine Bruno, Michael Lau, Brandon Nguyen, Edward Uzueta
 
 ## Overview
