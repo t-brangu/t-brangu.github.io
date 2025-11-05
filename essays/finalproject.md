@@ -65,18 +65,17 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 - Another user finds the item, logs in, and notifys the owner that the item was found and returned to Campus Center
 
 ## Beyond the Basics
-
-After implementing the basic functionality, here are ideas for more advanced features:
-
 <div style="overflow: auto;">
   <figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
     <img src="../img/map.jpg"
-         width="200"
-         height="200"
+         width="100"
+         height="100"
          alt="UH Manoa Campus Map"
          style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
     <figcaption><em>(UH Mānoa's Campus Map)</em></figcaption>
   </figure>
+  
+After implementing the basic functionality, here are ideas for more advanced features:
 
   <ul>
     <li>Implement a fuzzy-match search (perhaps using AI to match similar keywords such as “AirPods” to “Apple Earbuds” or “Wireless Headphones”).</li>
