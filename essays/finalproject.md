@@ -49,13 +49,34 @@ To encourage safe recovery and deter theft, **all physical returns should flow t
 - Landing page
 - Feed (tabs for Lost and Found, quick filters by category/location/date
 - Dashboard (My Lost Items, My Found Items, Matches & Alerts)
-- Post Lost Item
-- Post Found Item
-- Item Details page
+- Post Lost Item (photo upload, category, description, last-seen location/time)
+- Post Found Item (photo upload, category, description, turned-in location)
+- Item Details page (photo, description, location information, status, "Notify Owner" or "Message via UH email")
 - Recovery Instructions page
 - Admin home page
 - Locations & Offices page
 - Search & Advanced Filters
 
 ## Use case ideas
+- New user (student) visits the landing page and clicks "Log in with UH." After authentification, they are brought to their personal dashboard with tabs for "Lost" and "Found."
+- User reports a lost item, filling in the required details for a post such as: _Category - Bottle, Description - Blue Hydroflask with straw and dog stickers, Last seen: POST Room 318, uploaded photo_.
+- The listing appears in the **Lost Items** feed and on their personal **My Lost Items** page.
+- They receive notifications whenever similar "Found" posts are added
+- Another user finds the item, logs in, and notifys the owner that the item was found and returned to Campus Center
+
+## Beyond the basics
+After implementing the basic functionality, here are ideas for more advanced features:
+
+- Implement a fuzzy-match search (perhaps using AI to match similar keywords such as "AirPods" to "Apple Earbuds" or "Wireless Headphones"
+- QR Poster Generator (allows users to print posters for campus bulletin boards with scannable links to their listings)
+<figure style="float: right; margin-left: 20px; margin-bottom: 10px; text-align: center;">
+  <img src="../img/map.png"
+       width="400"
+       alt="UH Manoa Campus Map"
+       style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
+  <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
+</figure>
+- Map integration (visual markers showing last-seen and found-item locations on campus
+- Automated clean-up (posts older than a set time period will be auto-archived unless renewed)
+- Recovery metrics (display stats such as "123 items reunited this semester" to highlight community impact)
 
