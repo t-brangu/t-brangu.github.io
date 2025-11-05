@@ -72,7 +72,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
        width="400"
        alt="UH Manoa Campus Map"
        style="border: 1px solid #ccc; border-radius: 10px; padding: 4px;">
-  <figcaption><em>(UH Manoa's Current Lost and Found Page)</em></figcaption>
+  <figcaption><em>(UH Manoa's Campus Map)</em></figcaption>
 </figure>
 </div>
 - Implement a fuzzy-match search (perhaps using AI to match similar keywords such as "AirPods" to "Apple Earbuds" or "Wireless Headphones"
